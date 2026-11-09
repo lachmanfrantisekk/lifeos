@@ -1,0 +1,1 @@
+{"name":"lifeos","private":true,"workspaces":["frontend","worker"],"scripts":{"build":"npm run build -w frontend","check":"npm run check -w frontend && npm run check -w worker"}}
